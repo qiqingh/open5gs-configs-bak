@@ -1,0 +1,11 @@
+udm:
+    hnet:
+      - id: 1
+        scheme: 1
+        key: 3rd-party/open5gs-core/build/configs/open5gs/hnet/curve25519-1.key
+      - id: 2
+        scheme: 2
+        key: 3rd-party/open5gs-core/build/configs/open5gs/hnet/secp256r1-2.key
+    sbi:
+      - addr: 127.0.0.12
+        port: 7777

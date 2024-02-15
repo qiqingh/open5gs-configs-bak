@@ -1,0 +1,5 @@
+sgwu:
+    pfcp:
+      - addr: 127.0.0.6
+    gtpu:
+      - addr: 127.0.0.6
